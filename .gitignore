@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Calibration output (camera-specific, regenerate with calibrate.py)
+camera_params.npz
+
+# Captured snapshots / recordings
+captures/
+*.mp4
+
+# OS
+.DS_Store
+Thumbs.db
