@@ -129,3 +129,10 @@ Python · OpenCV (`opencv-contrib-python`) · NumPy
 ## License
 
 MIT
+
+---
+
+## Questions
+
+Open an issue at
+[github.com/Lumeon-Labs/vision-positioning-demo/issues](https://github.com/Lumeon-Labs/vision-positioning-demo/issues).
