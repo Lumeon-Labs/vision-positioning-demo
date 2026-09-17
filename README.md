@@ -126,6 +126,14 @@ detector model, and the downstream interface.
 
 Python · OpenCV (`opencv-contrib-python`) · NumPy
 
+## Need this adapted to your line?
+
+The production version swaps the webcam for an industrial camera and your part model.
+I take paid integration work (remote, hourly or per project): vision positioning, the
+hand-off of pick coordinates to a robot arm, and the C#/.NET software around it.
+
+Contact: nm93301101@gmail.com · <https://mars-industrial.pages.dev/#contact> (the site is in Traditional Chinese)
+
 ## License
 
 MIT
